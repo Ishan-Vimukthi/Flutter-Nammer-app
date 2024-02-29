@@ -133,7 +133,7 @@ class GeneratorPage extends StatelessWidget {
                   appState.toggleFavorite();
                 },
                 icon: Icon(icon),
-                label: Text('Lik'),
+                label: Text('Like'),
               ),
               SizedBox(width: 10),
               ElevatedButton(
